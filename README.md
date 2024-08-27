@@ -25,29 +25,35 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
   </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
   </a> 
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_sql/microsoft_sql-icon.svg" alt="mssql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="msoffice" width="40" height="40"/> 
+  </a>
+  <a href="https://www.ibm.com/products/datastage" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="ibmdatastage" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.talend.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" alt="talend" width="40" height="40"/> 
+  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_sql/microsoft_sql-icon.svg" alt="mssql" width="40" height="40"/> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerapps" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerapps/microsoft_powerapps-icon.svg" alt="powerapps" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.qlik.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/qlik/qlik-icon.svg" alt="qlik" width="40" height="40"/> 
   </a> 
 </p>
 
