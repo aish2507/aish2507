@@ -6,7 +6,7 @@
 
 - 🔭 I have worked on **MTN Mobile Money project in Ericsson**, focusing on mobile subscription analysis and market share determination.
 
-- 🌱 I’m currently enhancing my skills in **Data Analysis, Visualization, and ETL processes**, with tools like Power BI, SQL, and Qlik Sense.
+- 🌱 I’m skilled in **Data Analysis, Visualization, and ETL processes**, with tools like Power BI, SQL, and Qlik Sense.
 
 - 👯 I’m looking to collaborate on **Data Analysis and Business Intelligence projects** to drive strategic initiatives.
 
