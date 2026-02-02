@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis and Business Intelligence projects** to drive strategic initiatives.
 
-- 👨‍💻 Check out my projects and contributions at [https://github.com/aish2507?tab=projects](https://github.com/aish2507?tab=projects)
-
 - 💬 Ask me about **Data Analysis, ETL processes, Business Intelligence tools, and anything related to Power BI and Tableau.**
 
 - 📫 How to reach me **aishwarya.srivastavawork@gmail.com**
