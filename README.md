@@ -44,7 +44,7 @@ Data Analyst with 5+ years of experience across **FinTech, HealthTech, and consu
 ### 📂 Projects
 
 - **[Retail Sales Performance Dashboard — Power BI](#)**
-  Interactive Power BI dashboard analyzing sales trends, regional performance, and customer segments, with drill-down KPIs and DAX-based measures. *(Add your .pbix or published report link here)*
+  Interactive Power BI dashboard analyzing sales trends, regional performance, and customer segments, with drill-down KPIs and DAX-based measures. 
 
 - **Retail Sales EDA — Python (Pandas, Seaborn)**
   Exploratory data analysis identifying sales trends, customer segments, and purchasing behavior patterns from transactional retail data.
